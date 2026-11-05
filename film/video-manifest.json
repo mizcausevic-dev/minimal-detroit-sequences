@@ -1,0 +1,26 @@
+{
+  "title": "Minimal Detroit Sequences",
+  "study": "z1701",
+  "bpm": 132,
+  "source_audio": "preview/minimal-detroit-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "5cfc38ed3bba6737aa42177d7d3e8d3ad85a5d4fc6a368ef180afb75c2994bbe",
+  "source_midi": "midi/z1701-minimal-detroit-sequences-opening/z1701-minimal-detroit-sequences-opening-combined.mid",
+  "source_midi_sha256": "fe247bb357368e3138c824db31b91f66091991181bbccc1c9ef65bf914c93893",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "84b55f943685daa9eb3e113d235cb7894325a012d89b92a64a4176077ab7f652",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "d40cbc1dfed109078febb14365e5cae7a9cb480bfd60a9b3a7aafe245eb8f404",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "93922f8fde2b73b662c952325875b5284618407f7843514e87c50504af77c786",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

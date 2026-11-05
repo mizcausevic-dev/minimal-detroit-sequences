@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:47.175898+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1701-minimal-detroit-sequences-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "53f57c4cac9287406c5001a69abfee133b2b395f463d511d16364ccb6572be89",
+      "errors": []
+    },
+    {
+      "path": "midi/z1701-minimal-detroit-sequences-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "078d80da8d64b1a389d92b3a807c156b9f508a8bd40d51bb44b47d2de87dc73e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1701-minimal-detroit-sequences-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1701-minimal-detroit-sequences-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "421755f003827ea26f8af35224df1eda83f0b62d90910fa5db792935f8654250",
+      "errors": []
+    },
+    {
+      "path": "midi/z1701-minimal-detroit-sequences-opening/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "3e1b94900ffd610a23b0a9a250b53f0d8fe8ca45ac30ed6dd54e43e9d27c8516",
+      "errors": []
+    },
+    {
+      "path": "midi/z1701-minimal-detroit-sequences-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3bc87192f9f95f0af415def06f3d34665ec56a8c5ecada2235797f42d57a0325",
+      "errors": []
+    },
+    {
+      "path": "midi/z1701-minimal-detroit-sequences-opening/z1701-minimal-detroit-sequences-opening-combined.mid",
+      "bytes": 6043,
+      "sha256": "fe247bb357368e3138c824db31b91f66091991181bbccc1c9ef65bf914c93893",
+      "errors": []
+    },
+    {
+      "path": "midi/z1702-minimal-detroit-sequences-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "d48eaaaa33216386a32c3c7a7e269a694384118791c5a1f8888a8cc960b761c6",
+      "errors": []
+    },
+    {
+      "path": "midi/z1702-minimal-detroit-sequences-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "45ad81791dff045bc46862bdd8d10fe454f295c71a15c6830f4bb963c016e6bf",
+      "errors": []
+    },
+    {
+      "path": "midi/z1702-minimal-detroit-sequences-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1702-minimal-detroit-sequences-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "4abb6e48bc45a0e336b93cf6124c44caec957799b6e7b7fb9643186e95f9ead7",
+      "errors": []
+    },
+    {
+      "path": "midi/z1702-minimal-detroit-sequences-variation/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "b0eb30c091e3418a57d828a8b74b8e6f28f01c9c108bc21071e8307fe8fd82fb",
+      "errors": []
+    },
+    {
+      "path": "midi/z1702-minimal-detroit-sequences-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3e34c494a06663538bd60e4ee3a37df14ddd37623d4259763d44b07bd5612de8",
+      "errors": []
+    },
+    {
+      "path": "midi/z1702-minimal-detroit-sequences-variation/z1702-minimal-detroit-sequences-variation-combined.mid",
+      "bytes": 6042,
+      "sha256": "207b8d91c0812edbe6a643ec103128dcd91dc9999520113aa707ea0522bfa058",
+      "errors": []
+    },
+    {
+      "path": "midi/z1703-minimal-detroit-sequences-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "7eb96119bd2f4ef8049db9e12b322e6d5fe2751c4449dc60b8632804605968fc",
+      "errors": []
+    },
+    {
+      "path": "midi/z1703-minimal-detroit-sequences-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1012f99c9c38785cff94c683b03959b1ccc3e15ba47de8137384f0f6dc283868",
+      "errors": []
+    },
+    {
+      "path": "midi/z1703-minimal-detroit-sequences-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1703-minimal-detroit-sequences-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "181eca27162c9d18f84703465b12c9d81ce44895654c4e884878d7c5bf4c2e37",
+      "errors": []
+    },
+    {
+      "path": "midi/z1703-minimal-detroit-sequences-contrast/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "7a1de7275aed9bb833ee4aec30eb5c15121576dada684d29c96f64c35519a087",
+      "errors": []
+    },
+    {
+      "path": "midi/z1703-minimal-detroit-sequences-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e05699a596ff6a92687b25c24c69c72acb3a83467ef7bb26ea720ecc6f09f2f1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1703-minimal-detroit-sequences-contrast/z1703-minimal-detroit-sequences-contrast-combined.mid",
+      "bytes": 6010,
+      "sha256": "1fcb91d02509a25cd1fa2b8f77de6b37c5721079d3f0c8b8557780c14700b9d0",
+      "errors": []
+    },
+    {
+      "path": "midi/z1704-minimal-detroit-sequences-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "ba2bfbc9ecef729779f14310207b3591e4716bc1a38e16fed76015545972b1e5",
+      "errors": []
+    },
+    {
+      "path": "midi/z1704-minimal-detroit-sequences-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fb4593d813328d8c2154624cb380246d0e58546336284acd6fe72f025839e772",
+      "errors": []
+    },
+    {
+      "path": "midi/z1704-minimal-detroit-sequences-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1704-minimal-detroit-sequences-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "e7838727b41fca4597cbb8bdaf7cd80b75b6a783450f0ac4b469161740406831",
+      "errors": []
+    },
+    {
+      "path": "midi/z1704-minimal-detroit-sequences-return/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "c8d65a30e58fa43ce86c3cb879e5ecc4d7a5bbfab9cc67c18fb9fee8037f0bba",
+      "errors": []
+    },
+    {
+      "path": "midi/z1704-minimal-detroit-sequences-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "796a1b52f41b5745d988ab89fa669353c1d96c4d870d3d34cfa3961e9985aac7",
+      "errors": []
+    },
+    {
+      "path": "midi/z1704-minimal-detroit-sequences-return/z1704-minimal-detroit-sequences-return-combined.mid",
+      "bytes": 6010,
+      "sha256": "f4a534a51a7d2e3232d7d78291a0a5886c44bb7b5a6dbcd000e470cfc5e25724",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
