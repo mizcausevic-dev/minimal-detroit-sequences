@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/minimal-detroit-sequences-midi.zip",
-      "bytes": 31958,
-      "sha256": "90b06f960e66351376bda03fc3e13fba54870a908c151c1bfdd7768a347b4057"
+      "bytes": 32945,
+      "sha256": "a11bead83dcb2b79671a06257a46964160244acc668fd34ff8dcff034f9e76d8"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "c9eba9c7199a1563061037ee8d4f8357e7395b83c590691d963e513291383b79"
+      "bytes": 10234,
+      "sha256": "4f971ae5c773e4895f5332580c8091185c78031279c3f9fc000bc6638f50d4bf"
     },
     {
       "path": "midi/z1701-minimal-detroit-sequences-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "f4a534a51a7d2e3232d7d78291a0a5886c44bb7b5a6dbcd000e470cfc5e25724"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/minimal-detroit-sequences-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "5cfc38ed3bba6737aa42177d7d3e8d3ad85a5d4fc6a368ef180afb75c2994bbe"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4002,
-      "sha256": "eb2d7852232daeb36ff385ae94ce5abefe257a6ec59cef11373fd22259790ea6"
+      "bytes": 4117,
+      "sha256": "2f561f797d7b61b76984e651cf4cab5e513605006ff67b6a502acfddaee9e6fe"
     },
     {
       "path": "social/instagram/caption.txt",
